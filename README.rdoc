@@ -1,1 +1,1 @@
-This is a test app for me to get fluent in ruby on rails
+rails app changed
